@@ -51,7 +51,7 @@ function generateMarkdown(data) {
 - [Tests](#tests)
 - [Questions](#questions)
 ${(data.license) ? "- [License](#license)" : "" }
-    
+   
 ##Description
 
 ${data.projectDescription}
@@ -70,7 +70,8 @@ ${data.contributionGuidelines}
 
 ##Tests
 
-${data.testInfo}
+${data.testInfo} 
+
 
 ##Questions
 
