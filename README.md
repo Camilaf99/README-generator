@@ -29,6 +29,7 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 ##Grading Requirements
+
 :smiley: NOTE
 If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
 
@@ -43,11 +44,13 @@ If a Challenge assignment submission is marked as “0”, it is considered inco
 This Challenge is graded based on the following criteria:
 
 ##Deliverables: 20%
+
 A sample README generated using the application must be submitted.
 
 Your GitHub repository containing your application code.
 
 ##Walkthrough Video: 27%
+
 - A walkthrough video that demonstrates the functionality of the README generator must be submitted and a link to the video should be included in your README file.
 
 - The walkthrough video must demonstrate how a user would invoke the application from the command line.
@@ -57,10 +60,13 @@ Your GitHub repository containing your application code.
 - The walkthrough video must demonstrate a generated README that matches the user input and has a functioning table of contents.
 
 ##Technical Acceptance Criteria: 40%
+
 Satisfies all of the above acceptance criteria plus the following:
 
 - Uses the Inquirer package (Links to an external site.).
+
 ##Repository Quality: 13%
+
 1. Repository has a unique name.
 
 2. Repository follows best practices for file structure and naming conventions.
@@ -72,6 +78,7 @@ Satisfies all of the above acceptance criteria plus the following:
 5. Repository contains a high-quality README with description and a link to walkthrough video.
 
 #How to Submit the Challenge
+
 You are required to submit the following for review:
 
 - A walkthrough video demonstrating the functionality of the application. [Link to video](https://drive.google.com/file/d/19JuDCME8d6L_8CemmbOpUHUDa-i5rG--/view?usp=sharing)
